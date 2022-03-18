@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+  }
+  h2 {
+    text-align: center;
+    color: white;
+  }
+  #search {
+    text-align: center;
+  }
+  .main {
+    display: flex;
+    justify-content: space-around;
+  }
+  #details {
+    width: 80%;
+
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+  }
+  .rec_div{
+    display: flex;
+  }
+  .recom{
+    height: 60px;
+    width: 82x;
+    margin-left: 30px;
+  }
